@@ -1,0 +1,17 @@
+.hideAll {
+  display: none;
+}
+
+
+Appointments
+Create a website for booking appointments with you.
+
+Users should be able to enter:
+their name,
+a description of the appointment,
+the appointment date,
+and start/end times.
+
+After they submit the form:
+they should receive a confirmation page telling them the booking was successful.
+This page should also reprint the information they entered into your form.
